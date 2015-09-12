@@ -1,5 +1,7 @@
 ## Check for new versions of qlikview extensions
 
+[![Join the chat at https://gitter.im/countnazgul/Qlikview-Check-for-Extension-Updates](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/countnazgul/Qlikview-Check-for-Extension-Updates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 There is no functionality in QV that will inform your users if new version of your QV extension is available. This script will help you do this.
 
 ### Pre-requirements
