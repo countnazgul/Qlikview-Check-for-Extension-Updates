@@ -47,3 +47,8 @@ Qva.AddExtension('MyExtension', function(){
 The script will check for new versions on every new session (not every time when selection is made) but the indicator will stay (if new version is available).
 
 The script is not dependant from any other scripts or libraries. 
+
+### Screenshots
+![Icon](https://raw.githubusercontent.com/countnazgul/Qlikview-Check-for-Extension-Updates/master/Screenshots/screenshot1.png)
+
+![IconWithHoverText](https://raw.githubusercontent.com/countnazgul/Qlikview-Check-for-Extension-Updates/master/Screenshots/screenshot2.png)
